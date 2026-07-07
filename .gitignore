@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+
+# Environment files
+.env
+.env.*
+
+# Database
+*.db
+
+# Node / Expo
+node_modules/
+.expo/
+web-build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git line ending noise
+*.orig
+
+# Large dependency artifacts that can trip Windows filename limits
+mobile/node_modules/**
