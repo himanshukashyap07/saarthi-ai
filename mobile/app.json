@@ -9,11 +9,6 @@
     "platforms": ["ios", "android"],
     "android": {
       "package": "com.himanshukashyap07.saarthi"
-    },
-    "extra": {
-      "eas": {
-        "projectId": ""
-      }
     }
   }
 }
